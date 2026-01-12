@@ -16,6 +16,14 @@ Real-time stress detection using **MediaPipe pose analysis** + **90% accurate Ra
 
 ## 📦 Files
 
+**poseguard.ipynb # Complete ML pipeline (284 KB)**
+**├── stress_model.pkl # 90% accuracy model (13 KB)**
+**├── stress_scaler.pkl # Feature scaler (2 KB)**
+**├── stress_features.pkl # Feature definitions (1 KB)**
+**├── pose_landmarker.task # MediaPipe model (1,778 KB)**
+**├── stress.csv # Training data (318 KB)**
+
+
 ---
 
 ## 📊 Dataset
